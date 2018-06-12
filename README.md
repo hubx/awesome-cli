@@ -4,6 +4,9 @@
 
 An awesome list for modern drop-in replacements for common tools with sane defaults.
 
+Commands such as `netstat -tulpen`, `ps aux` or `ls -lah` are in your muscle memory, because you always forget what the indiviual parameters stand for? You get confused with inconsistencies between`du . -h --max-depth 1` and `find -name "CMake*" -maxdepth 2 -type f -exec grep -i "Debug" {} \;`. In general you are tired of searching how to do simple things with your tool on [StackExchange](https://unix.stackexchange.com/a/12904) ? This list is for you.
+Also ❤ for speed.
+
 ## grep
 
 typical usage `grep -r PATTERN *`
