@@ -1,4 +1,6 @@
 # awesome cli
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 An awesome list for modern drop-in replacements for common tools with sane defaults.
 
